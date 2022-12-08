@@ -1,7 +1,6 @@
 # Sergei Lyamin
----------------
 
-![My foto](/home/sergei/RS_shcool/rsschool-cv/photo.png) "It's me"
+![My foto](https://github.com/Sergei-SLS/rsschool-cv/blob/gh-pages/photo.png) "It's me"
 
 ## Contact:
 
@@ -20,10 +19,10 @@
 
 ## Education
 * **University:** Nizhny Novgorod State Pedagogical University named after Kozma Minin
-  * **Faculty:** Information systems and technologies
+ * **Faculty:** Information systems and technologies
 
 ## Language
-Russian - native/
+Russian - native
 
   English - A1
 
