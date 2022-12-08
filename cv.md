@@ -1,7 +1,7 @@
 # Sergei Lyamin
 ---------------
 
-![](/home/sergei/RS_shcool/rsschool-cv/photo_2022-12-08_12-49-17.jpg)
+![My foto](/home/sergei/RS_shcool/rsschool-cv/photo.png) "It's me"
 
 ## Contact:
 
@@ -24,6 +24,7 @@
 
 ## Language
 Russian - native/
-English - A1
+
+  English - A1
 
  
