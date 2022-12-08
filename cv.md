@@ -7,7 +7,7 @@
 * **Location:** Kazakhstan, Karaganda 
 * **E-mail:** Lyamin.SLS@gmail.com
 * **Discord:** Sergei Lyamin#7151
-* **GitHub:** [Sergei-SLS](https://app.rs.school/profile/segei-sls)
+* **GitHub:** [Sergei-SLS](https://github.com/sergei-sls)
 
 ## About me
 
@@ -19,7 +19,7 @@
 
 ## Education
 * **University:** Nizhny Novgorod State Pedagogical University named after Kozma Minin
- * **Faculty:** Information systems and technologies
+  * **Faculty:** Information systems and technologies
 
 ## Language
 Russian - native
