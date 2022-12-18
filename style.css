@@ -1,0 +1,70 @@
+.cap {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 8px;
+    }
+.nav-ul {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+.none {
+text-decoration: none;
+color:#ffffff;
+}
+
+.footer {
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: #000000;
+color: #ffffff;
+padding: 8px;
+}
+
+.logo {
+background-color: #ffffff;
+border: 3px solid #ffffff; 
+width: 100px;
+padding: 0 20px 0 0;
+}
+
+.name {
+flex-grow: 1;
+align-self: center;
+text-align: center;
+float:right;
+margin-right: 300px;
+padding-top: 100px;
+border-bottom: 1px solid;
+}
+
+#contacts {
+border-bottom: 1px solid;
+}
+
+#about {
+border-bottom: 1px solid;
+}
+
+#skills {
+border-bottom: 1px solid;
+}
+
+#code {
+border-bottom: 1px solid;
+}
+
+#projects {
+border-bottom: 1px solid;
+}
+
+#education {
+border-bottom: 1px solid;
+}
+
+.container {
+max-width: 1440px;
+margin: 0 auto;
+}
